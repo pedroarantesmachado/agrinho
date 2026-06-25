@@ -5,10 +5,28 @@ body{
 }
 
 header{
-    background-color : darkgreen;
+    background-color : rgb(0, 0, 0);
     color: white;
 }
 
 header{
          height: 34px;
    }
+img{
+ 
+   width: 400;
+   height: 200px; ;
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: aqua;
+    position:fixed;
+    width: 100%;
+}
+main{
+    background-color:rgb(0, 238, 255);
+    width: 70%;
+
+}
